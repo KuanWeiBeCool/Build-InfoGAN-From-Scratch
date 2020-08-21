@@ -4,7 +4,7 @@ GANs are widely used for synthesizing new data, especially images. However, one 
 I've also posted an article on [Medium.com for this topic](https://towardsdatascience.com/build-infogan-from-scratch-f20ee85cba03).
 ## Key Results:
 1. This model can produce different images of numbers when given different categorical labels:
-![image](Categorical_1.png)
+![image](Images/Categorical_1.png)
 
 2. This model can also change the shape of the number by varying the continuous latent code:
-![image](Continuous_1.png)
+![image](Images/Continuous_1.png)
